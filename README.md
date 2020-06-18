@@ -1,7 +1,7 @@
 # CAR vs BUS Classification
 
 
-## YOG3-B
+## YOG3-B Group
 Bangkit Final Assignment/ Project
 
 Project Members:
